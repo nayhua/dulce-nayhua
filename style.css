@@ -1,0 +1,57 @@
+ 
+*{
+	margin:0;
+	padding:0;
+}
+#contenedorgeneral{
+	width:1000px;
+	height:1000px;
+	background:#FAE5D3 ;
+	margin:0.5em auto;
+	padding:0.5em;
+}
+#cont1{
+	height:10%
+	background-imagi:url(frase1.jpg);
+}
+#cont2{
+	height:20%
+	background:#58D68D;
+}
+#cont3{
+	height:40%
+	background:#58D68D;
+}
+#cont4{
+	height:10%
+	background:#58D68D;
+}
+#cont5{
+	height:20%
+	background:#D7DBDD;
+	
+}
+
+ul{
+	background:#F8F9F9;
+	list-style:none;
+	width:100%;
+}
+li{
+	float: left;
+	position: relative;
+	width:auto;
+}
+#boton{
+	background:#CD6155;
+	color: white;
+	font-style: italic;
+	font-size:16px;
+	font-weight: bold;
+	padding: 15px 85px;
+	display: block;
+}
+
+	
+
+
